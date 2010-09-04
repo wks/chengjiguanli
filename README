@@ -1,0 +1,21 @@
+Chengjiguanli - A simple student score management program.
+
+Author: wks
+
+This program assumes a scenario where:
+
+* There are zero or more students.
+* Each student enrolls in zero or more courses.
+* For each student and a course the student enrolled, a score is recorded.
+
+This program can create, read, update and delete students and their scores.
+This program can also compute the total scores a student has obtained.
+
+This program is released under GNU GPL v2.
+
+This program is inspired by the idea of a friend of mine.  Any resemblence
+to any assignments of computer science courses are coincident.  If it resem-
+bles your assignment, DO NOT SIMPLY COPY THIS PROGRAM because YOU SHOULD DO
+YOUR OWN HOMEWORK!
+
+wks
